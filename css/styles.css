@@ -1,0 +1,47 @@
+.features-block-4 {
+	font-family: 'Nunito', sans-serif;
+	padding: 100px 0;
+}
+
+.features-block-4 .feature {
+	margin: 0 0 60px 0;
+}
+
+.features-block-4 .image-container {
+	margin: 3.750em 0;
+}
+
+/* Text */
+
+.features-block-4 h2 {
+	font-size: 2.625rem;
+	font-weight: 300;
+	margin-bottom: 0.8em;
+}
+
+.features-block-4 .subtitle {
+	font-size: 1.125rem;
+	font-weight: 300;
+	width: 80%;
+	margin: 0em auto 1em auto;
+	color: #141414;
+}
+
+.features-block-4 p {
+	font-size: 1.125rem;
+	font-weight: 300;
+	width: 80%;
+	margin: 0em auto;
+	color: #141414;
+}
+
+.features-block-4 h3 {
+	font-size: 1.125rem;
+	font-weight: 700;
+	margin: 0 0 30px 0;
+}
+
+.features-block-4 .fa {
+	font-size: 2.625rem;
+	margin: 0 0 30px 0;
+}
